@@ -6,3 +6,6 @@ D:\GitHub\WinPrinterListCnv\WinPrinterListCnv\obj\x86\Debug\WinPrinterListCnv.vb
 D:\GitHub\WinPrinterListCnv\WinPrinterListCnv\obj\x86\Debug\WinPrinterListCnv.exe
 D:\GitHub\WinPrinterListCnv\WinPrinterListCnv\obj\x86\Debug\WinPrinterListCnv.xml
 D:\GitHub\WinPrinterListCnv\WinPrinterListCnv\obj\x86\Debug\WinPrinterListCnv.pdb
+D:\GitHub\WinPrintPort\WinPrinterListCnv\WinPrinterListCnv\obj\x86\Debug\WinPrinterListCnv.exe
+D:\GitHub\WinPrintPort\WinPrinterListCnv\WinPrinterListCnv\obj\x86\Debug\WinPrinterListCnv.xml
+D:\GitHub\WinPrintPort\WinPrinterListCnv\WinPrinterListCnv\obj\x86\Debug\WinPrinterListCnv.pdb

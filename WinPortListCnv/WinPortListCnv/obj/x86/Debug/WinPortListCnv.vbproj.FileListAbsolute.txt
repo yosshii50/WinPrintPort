@@ -6,3 +6,6 @@ D:\GitHub\WinPortListCnv\WinPortListCnv\obj\x86\Debug\WinPortListCnv.vbproj.Gene
 D:\GitHub\WinPortListCnv\WinPortListCnv\obj\x86\Debug\WinPortListCnv.exe
 D:\GitHub\WinPortListCnv\WinPortListCnv\obj\x86\Debug\WinPortListCnv.xml
 D:\GitHub\WinPortListCnv\WinPortListCnv\obj\x86\Debug\WinPortListCnv.pdb
+D:\GitHub\WinPrintPort\WinPortListCnv\WinPortListCnv\obj\x86\Debug\WinPortListCnv.exe
+D:\GitHub\WinPrintPort\WinPortListCnv\WinPortListCnv\obj\x86\Debug\WinPortListCnv.xml
+D:\GitHub\WinPrintPort\WinPortListCnv\WinPortListCnv\obj\x86\Debug\WinPortListCnv.pdb
