@@ -1,6 +1,6 @@
 ﻿
 '実行サンプル1
-'   cscript cscript C:\Windows\System32\Printing_Admin_Scripts\ja-JP\prnport.vbs -l | D:\GitHub\WinPortListCnv\WinPortListCnv\bin\Debug\WinPortListCnv.exe | clip
+'   cscript C:\Windows\System32\Printing_Admin_Scripts\ja-JP\prnport.vbs -l | D:\GitHub\WinPortListCnv\WinPortListCnv\bin\Debug\WinPortListCnv.exe | clip
 
 '実行サンプル2
 '   cscript C:\Windows\System32\Printing_Admin_Scripts\ja-JP\prnport.vbs -l > ポート一覧.txt
