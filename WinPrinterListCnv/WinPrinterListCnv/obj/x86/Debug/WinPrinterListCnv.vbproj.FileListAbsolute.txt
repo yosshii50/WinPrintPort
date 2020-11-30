@@ -1,0 +1,8 @@
+D:\GitHub\WinPrinterListCnv\WinPrinterListCnv\bin\Debug\WinPrinterListCnv.exe
+D:\GitHub\WinPrinterListCnv\WinPrinterListCnv\bin\Debug\WinPrinterListCnv.pdb
+D:\GitHub\WinPrinterListCnv\WinPrinterListCnv\bin\Debug\WinPrinterListCnv.xml
+D:\GitHub\WinPrinterListCnv\WinPrinterListCnv\obj\x86\Debug\WinPrinterListCnv.Resources.resources
+D:\GitHub\WinPrinterListCnv\WinPrinterListCnv\obj\x86\Debug\WinPrinterListCnv.vbproj.GenerateResource.Cache
+D:\GitHub\WinPrinterListCnv\WinPrinterListCnv\obj\x86\Debug\WinPrinterListCnv.exe
+D:\GitHub\WinPrinterListCnv\WinPrinterListCnv\obj\x86\Debug\WinPrinterListCnv.xml
+D:\GitHub\WinPrinterListCnv\WinPrinterListCnv\obj\x86\Debug\WinPrinterListCnv.pdb

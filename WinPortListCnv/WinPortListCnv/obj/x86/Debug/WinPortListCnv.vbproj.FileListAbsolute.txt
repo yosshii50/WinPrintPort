@@ -1,0 +1,8 @@
+D:\GitHub\WinPortListCnv\WinPortListCnv\bin\Debug\WinPortListCnv.exe
+D:\GitHub\WinPortListCnv\WinPortListCnv\bin\Debug\WinPortListCnv.pdb
+D:\GitHub\WinPortListCnv\WinPortListCnv\bin\Debug\WinPortListCnv.xml
+D:\GitHub\WinPortListCnv\WinPortListCnv\obj\x86\Debug\WinPortListCnv.Resources.resources
+D:\GitHub\WinPortListCnv\WinPortListCnv\obj\x86\Debug\WinPortListCnv.vbproj.GenerateResource.Cache
+D:\GitHub\WinPortListCnv\WinPortListCnv\obj\x86\Debug\WinPortListCnv.exe
+D:\GitHub\WinPortListCnv\WinPortListCnv\obj\x86\Debug\WinPortListCnv.xml
+D:\GitHub\WinPortListCnv\WinPortListCnv\obj\x86\Debug\WinPortListCnv.pdb
