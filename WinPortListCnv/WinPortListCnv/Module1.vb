@@ -22,6 +22,18 @@ Module Module1
 
     Sub Main()
 
+        Dim IsListOut As Boolean = False
+
+        For Each WrkCommandLine In System.Environment.GetCommandLineArgs()
+
+            WrkCommandLine = WrkCommandLine.Replace("-", "/")
+            WrkCommandLine = WrkCommandLine.ToUpper()
+
+            If WrkCommandLine = "/L" Then
+                IsListOut = True
+            End If
+        Next
+
         Dim PortInfoList = New List(Of PortInfo_Str)()
 
         Dim WrkPortInfo As New PortInfo_Str
@@ -87,7 +99,7 @@ Module Module1
 
         End While
 
-        If 1 = 0 Then
+        If IsListOut = True Then
 
             '一覧表出力
             Dim FirstFLG As Boolean = True

@@ -14,6 +14,8 @@ WinPortListCnv
     cscript C:\Windows\System32\Printing_Admin_Scripts\ja-JP\prnport.vbs -l
     で出力された文字列から、ポート作成用スクリプトを生成する
 
+    /L オプション指定で、一覧形式に出力
+
     下記のコマンドでの使用を想定
     cscript C:\Windows\System32\Printing_Admin_Scripts\ja-JP\prnport.vbs -l | WinPortListCnv.exe
     
